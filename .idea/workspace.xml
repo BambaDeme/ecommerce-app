@@ -7,6 +7,10 @@
     <list default="true" id="15568e09-087e-421a-95ca-76d9cf036975" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/deme/ahmadou/inventoryservice/security/SecurityConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-front/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-front/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-front/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-front/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-front/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-front/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inventory-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707133062384</updated>
-      <workItem from="1707133065764" duration="8543000" />
+      <workItem from="1707133065764" duration="9266000" />
     </task>
     <servers />
   </component>
