@@ -1,0 +1,98 @@
+POST http://localhost:8080/realms/ecommerce-app/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 107
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=client_credentials&client_id=angular-front-client&client_secret=MyLkizDzAKZ5cnZnLKzwALtzfhy1KTcO
+
+<> 2024-02-06T231948.200.json
+
+###
+
+POST http://localhost:8080/realms/ecommerce-app/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 79
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=client_credentials&client_id=angular-front-client&client_secret=test
+
+<> 2024-02-06T231808.401.json
+
+###
+
+POST http://localhost:8080/realms/ecommerce-app/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 745
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=refresh_token&client_id=angular-front-client&refresh_token=eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJlNmEzZjYxYi03NTEzLTRkNGQtYmZhZC02NDY3YzgzOTk5NWIifQ.eyJleHAiOjE3MDcyNjMxMjQsImlhdCI6MTcwNzI2MTMyNCwianRpIjoiNDExNWM1NTMtZDA4OC00YWRhLWJjNDEtMzg2OTE1NjI5NmNlIiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgwL3JlYWxtcy9lY29tbWVyY2UtYXBwIiwiYXVkIjoiaHR0cDovL2xvY2FsaG9zdDo4MDgwL3JlYWxtcy9lY29tbWVyY2UtYXBwIiwic3ViIjoiYjk3ZmUzMDgtYTgzMi00ZmNjLTlkYzktZTBjZjM5M2YzOTZiIiwidHlwIjoiUmVmcmVzaCIsImF6cCI6ImFuZ3VsYXItZnJvbnQtY2xpZW50Iiwic2Vzc2lvbl9zdGF0ZSI6ImFkNjdkNGFlLTU2MGItNDdlYy1hNjJmLTUwOWE0ODc1ZjQ4YyIsInNjb3BlIjoicHJvZmlsZSBlbWFpbCIsInNpZCI6ImFkNjdkNGFlLTU2MGItNDdlYy1hNjJmLTUwOWE0ODc1ZjQ4YyJ9.wa2wii9MOpIrPkWr_jRCyjtRxQqaFiyqp03Ynzub488
+
+<> 2024-02-06T231719.200.json
+
+###
+
+POST http://localhost:8080/realms/ecommerce-app/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 84
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=password&client_id=angular-front-client&username=ahmadou&password=ahmadou
+
+<> 2024-02-06T231524.200.json
+
+###
+
+POST http://localhost:8080/realms/ecommerce-app/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 84
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=password&client_id=angular-front-client&username=ahmadou&password=ahmadou
+
+<> 2024-02-06T230610.200.json
+
+###
+
+POST http://localhost:8080/realms/ecommerce-app/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 83
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=pasword&client_id=angular-front-client&username=ahmadou&password=ahmadou
+
+<> 2024-02-06T230559.400.json
+
+###
+
+POST http://localhost:8080/realms/ecommerce-app/protocol/openid-connect/token
+Accept: application/json
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 83
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.8)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+grant_type=pasword&client_id=angular-front-client&username=ahmadou&password=ahmadou
+
+<> 2024-02-06T230553.400.json
+
+###
+
