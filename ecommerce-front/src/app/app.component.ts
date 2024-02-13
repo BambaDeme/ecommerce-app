@@ -24,4 +24,10 @@ export class AppComponent implements OnInit {
   logout(): void {
     this.keycloakService.logout(window.location.origin)
   }
+
+  async onLogin() {
+    await this.keycloakService.login({
+      redirectUri: window.location.origin
+    });
+  }
 }
